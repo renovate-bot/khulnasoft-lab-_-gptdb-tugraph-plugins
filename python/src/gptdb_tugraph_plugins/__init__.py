@@ -1,4 +1,4 @@
-"""DB-GPT TuGraph plugins."""
+"""GPT-DB TuGraph plugins."""
 
 import os
 import sys

@@ -1,10 +1,10 @@
 # gptdb-tugraph-plugins
 
-TuGraph plugins python package used in DB-GPT.
+TuGraph plugins python package used in GPT-DB.
 
 ## Why this repository?
 
-TuGraph plugins are written in cpp and are compiled into dynamic link libraries. The purpose of this repository is to package these plugins into a python package so that they can be easily installed and used in DB-GPT.
+TuGraph plugins are written in cpp and are compiled into dynamic link libraries. The purpose of this repository is to package these plugins into a python package so that they can be easily installed and used in GPT-DB.
 
 
 ## How to use in python?

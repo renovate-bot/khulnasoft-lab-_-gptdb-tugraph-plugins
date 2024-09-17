@@ -70,11 +70,11 @@ setup(
     distclass=BinaryDistribution,
     author="",
     author_email="",
-    description="TuGraph plugins python package used in DB-GPT.",
+    description="TuGraph plugins python package used in GPT-DB.",
     long_description=open("../README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/khulnasoft-lab/gptdb-tugraph-plugins",
-    keywords="TuGraph DB-GPT graph LLM",
+    keywords="TuGraph GPT-DB graph LLM",
     python_requires=">=3.8",
     classifiers=[
         "Programming Language :: Python :: 3.8",
